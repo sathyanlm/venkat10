@@ -3,6 +3,10 @@ import java.util.Scanner;
  
 class AddNumbers
 {
+   public int substarction(int a, int b){
+   return a-b;
+   }
+   //Main Add Method
    public static void main(String args[])
    {
       int x, y, z;
@@ -14,3 +18,4 @@ class AddNumbers
       System.out.println("Sum of entered integers = "+z);
    }
 }
+//AddNumbers Class
