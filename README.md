@@ -6,6 +6,7 @@ class AddNumbers
    public int substarction(int a, int b){
    return a-b;
    }
+   //Main Add Method
    public static void main(String args[])
    {
       int x, y, z;
