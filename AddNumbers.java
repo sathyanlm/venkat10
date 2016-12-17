@@ -8,6 +8,9 @@ class AddNumbers
    public int mul(int a, int b){
 	return a*b;
    }
+   public float div(int a, int b){
+	return a/b;
+   }
    public static void main(String args[])
    {
       int x, y, z;
