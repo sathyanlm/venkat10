@@ -9,6 +9,8 @@ class AddNumbers
 	return a*b;
    }
    public int add(int a, int b){
-   {return a+b;
+   {return a+b;}
+   public float div(int a, int b){
+	 return a/b;
    }
 }
