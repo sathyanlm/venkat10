@@ -15,3 +15,4 @@ class AddNumbers
    {return a+b;
    }
 }
+//Three Methods

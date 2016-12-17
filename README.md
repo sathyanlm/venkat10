@@ -18,3 +18,4 @@ class AddNumbers
       System.out.println("Sum of entered integers = "+z);
    }
 }
+//AddNumbers Class
