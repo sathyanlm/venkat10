@@ -2,23 +2,19 @@ import java.util.Scanner;
  
 class AddNumbers
 {
+   //Sub Method
    public int sub(int a, int b){
 	return a-b;
    }
+   //Mul Method
    public int mul(int a, int b){
 	return a*b;
    }
+   //Add Method
+   public int add(int a, int b){
+   {return a+b;}
    public float div(int a, int b){
-	return a/b;
-   }
-   public static void main(String args[])
-   {
-      int x, y, z;
-      System.out.println("Enter two integers to calculate their sum ");
-      Scanner in = new Scanner(System.in);
-      x = in.nextInt();
-      y = in.nextInt();
-      z = x + y;
-      System.out.println("Sum of entered integers = "+z);
+	 return a/b;
    }
 }
+//Three Methods
