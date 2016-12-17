@@ -1,0 +1,285 @@
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] JarProjects-parent
+[INFO] JarProject1
+[INFO] JarProject2
+[INFO] JarProject3
+[INFO] JarProject4
+[INFO] JarProject5
+[INFO] JarProject6
+[INFO] JarProject7
+[INFO] JarProject8
+[INFO] JarProject9
+[INFO] JarProject10
+[INFO] JarProject11
+[INFO] JarProject12
+[INFO] JarProject13
+[INFO] JarProject14
+[INFO] JarProject15
+[INFO] JarProjects-Aggregate
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProjects-parent 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProjects-parent ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProjects-parent
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject1 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject1 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject1
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject2 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject2 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject2
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject3 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject3 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject3
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject4 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject4 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject4
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject5 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject5 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject5
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject6 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject6 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject6
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject7 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject7 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject7
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject8 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject8 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject8
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject9 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject9 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject9
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject10 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject10 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject10
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject11 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject11 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject11
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject12 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject12 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject12
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject13 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject13 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject13
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject14 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject14 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject14
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject15 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject15 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject15
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProjects-Aggregate 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProjects-Aggregate ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] iF current maven project path and root project path are equal then only this plugin will be executed
+[INFO] Reading text file...
+[INFO] Current project ArtifactId : JarProjects-parent || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Looks like there are no details related to this artifact JarProjects-parent in the text file artifacts.txt
+[INFO] Current project ArtifactId: JarProjects-parent|| Current project Version after update: 1.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject1 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject1|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject2 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject2|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject3 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject3|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject4 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject4|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject5 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject5|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject6 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject6|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject7 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject7|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject8 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject8|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject9 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject9|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject10 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject10|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject11 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject11|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject12 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject12|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject13 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject13|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject14 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject14|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProject15 || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Version in the pom file 1.0-SNAPSHOT
+[INFO] Version in the text file 2.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject15|| Current project Version after update: 1.0.0-SNAPSHOT
+[INFO] 
+[INFO] Current project ArtifactId : JarProjects-Aggregate || Current project Version before update: 1.0-SNAPSHOT
+[INFO] Looks like there are no details related to this artifact JarProjects-Aggregate in the text file artifacts.txt
+[INFO] Current project ArtifactId: JarProjects-Aggregate|| Current project Version after update: 1.0-SNAPSHOT
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] JarProjects-parent ................................. SUCCESS [  1.519 s]
+[INFO] JarProject1 ........................................ SUCCESS [  0.013 s]
+[INFO] JarProject2 ........................................ SUCCESS [  0.006 s]
+[INFO] JarProject3 ........................................ SUCCESS [  0.015 s]
+[INFO] JarProject4 ........................................ SUCCESS [  0.009 s]
+[INFO] JarProject5 ........................................ SUCCESS [  0.006 s]
+[INFO] JarProject6 ........................................ SUCCESS [  0.010 s]
+[INFO] JarProject7 ........................................ SUCCESS [  0.006 s]
+[INFO] JarProject8 ........................................ SUCCESS [  0.010 s]
+[INFO] JarProject9 ........................................ SUCCESS [  0.005 s]
+[INFO] JarProject10 ....................................... SUCCESS [  0.007 s]
+[INFO] JarProject11 ....................................... SUCCESS [  0.009 s]
+[INFO] JarProject12 ....................................... SUCCESS [  0.005 s]
+[INFO] JarProject13 ....................................... SUCCESS [  0.005 s]
+[INFO] JarProject14 ....................................... SUCCESS [  0.004 s]
+[INFO] JarProject15 ....................................... SUCCESS [  0.006 s]
+[INFO] JarProjects-Aggregate .............................. SUCCESS [  0.025 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 2.125 s
+[INFO] Finished at: 2016-10-25T22:21:22+05:30
+[INFO] Final Memory: 9M/92M
+[INFO] ------------------------------------------------------------------------

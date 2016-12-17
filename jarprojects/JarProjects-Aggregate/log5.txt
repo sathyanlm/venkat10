@@ -1,0 +1,569 @@
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] JarProject1
+[INFO] JarProject2
+[INFO] JarProject3
+[INFO] JarProjects-parent
+[INFO] JarProject4
+[INFO] JarProject5
+[INFO] JarProject6
+[INFO] JarProject7
+[INFO] JarProject8
+[INFO] JarProject9
+[INFO] JarProject10
+[INFO] JarProject11
+[INFO] JarProject12
+[INFO] JarProject13
+[INFO] JarProject14
+[INFO] JarProject15
+[INFO] JarProjects-Aggregate
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject1 3.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject1 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject1
+[INFO] Reading text file...
+[INFO] Current project name: JarProject1
+[INFO] 
+[INFO] Current project ArtifactId : JarProject1 || Current project Version before update: 3.0.2-SNAPSHOT
+[INFO] Version in the pom file 3.0.2-SNAPSHOT
+[INFO] Version in the text file 3.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject2 4.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject2 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject2
+[INFO] Reading text file...
+[INFO] Current project name: JarProject2
+[INFO] 
+[INFO] Current project ArtifactId : JarProject2 || Current project Version before update: 4.0.2-SNAPSHOT
+[INFO] Version in the pom file 4.0.2-SNAPSHOT
+[INFO] Version in the text file 4.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject3 5.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject3 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject3
+[INFO] Reading text file...
+[INFO] Current project name: JarProject3
+[INFO] 
+[INFO] Current project ArtifactId : JarProject3 || Current project Version before update: 5.0.2-SNAPSHOT
+[INFO] Version in the pom file 5.0.2-SNAPSHOT
+[INFO] Version in the text file 5.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProjects-parent 9.0.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProjects-parent ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProjects-parent
+[INFO] Reading text file...
+[INFO] Current project name: JarProjects-parent
+[INFO] 
+[INFO] Current project ArtifactId : JarProjects-parent || Current project Version before update: 9.0.1
+[INFO] Version in the pom file 9.0.1
+[INFO] Version in the text file 9.0.1
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] dependency: 2
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject1
+[INFO] Dependency version : 3.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 3
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject2
+[INFO] Dependency version : 4.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 4
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject3
+[INFO] Dependency version : 5.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject1
+[INFO] Dependency version : 3.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 2
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject2
+[INFO] Dependency version : 4.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 3
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject3
+[INFO] Dependency version : 5.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 4
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject4
+[INFO] Dependency version : 6.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 5
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject5
+[INFO] Dependency version : 7.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 6
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject6
+[INFO] Dependency version : 8.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 7
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject7
+[INFO] Dependency version : 9.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 8
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject8
+[INFO] Dependency version : 6.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 9
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject9
+[INFO] Dependency version : 8.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 10
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject10
+[INFO] Dependency version : 9.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 11
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject11
+[INFO] Dependency version : 4.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 12
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject12
+[INFO] Dependency version : 5.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 13
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject13
+[INFO] Dependency version : 7.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 14
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject14
+[INFO] Dependency version : 8.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO] dependency: 15
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject15
+[INFO] Dependency version : 3.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the dependency version are same.
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject4 6.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject4 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject4
+[INFO] Reading text file...
+[INFO] Current project name: JarProject4
+[INFO] 
+[INFO] Current project ArtifactId : JarProject4 || Current project Version before update: 6.0.2-SNAPSHOT
+[INFO] Version in the pom file 6.0.2-SNAPSHOT
+[INFO] Version in the text file 6.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject5 7.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject5 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject5
+[INFO] Reading text file...
+[INFO] Current project name: JarProject5
+[INFO] 
+[INFO] Current project ArtifactId : JarProject5 || Current project Version before update: 7.0.2-SNAPSHOT
+[INFO] Version in the pom file 7.0.2-SNAPSHOT
+[INFO] Version in the text file 7.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject6 8.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject6 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject6
+[INFO] Reading text file...
+[INFO] Current project name: JarProject6
+[INFO] 
+[INFO] Current project ArtifactId : JarProject6 || Current project Version before update: 8.0.2-SNAPSHOT
+[INFO] Version in the pom file 8.0.2-SNAPSHOT
+[INFO] Version in the text file 8.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject7 9.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject7 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject7
+[INFO] Reading text file...
+[INFO] Current project name: JarProject7
+[INFO] 
+[INFO] Current project ArtifactId : JarProject7 || Current project Version before update: 9.0.2-SNAPSHOT
+[INFO] Version in the pom file 9.0.2-SNAPSHOT
+[INFO] Version in the text file 9.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject8 6.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject8 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject8
+[INFO] Reading text file...
+[INFO] Current project name: JarProject8
+[INFO] 
+[INFO] Current project ArtifactId : JarProject8 || Current project Version before update: 6.0.2-SNAPSHOT
+[INFO] Version in the pom file 6.0.2-SNAPSHOT
+[INFO] Version in the text file 6.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject9 8.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject9 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject9
+[INFO] Reading text file...
+[INFO] Current project name: JarProject9
+[INFO] 
+[INFO] Current project ArtifactId : JarProject9 || Current project Version before update: 8.0.2-SNAPSHOT
+[INFO] Version in the pom file 8.0.2-SNAPSHOT
+[INFO] Version in the text file 8.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject10 9.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject10 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject10
+[INFO] Reading text file...
+[INFO] Current project name: JarProject10
+[INFO] 
+[INFO] Current project ArtifactId : JarProject10 || Current project Version before update: 9.0.2-SNAPSHOT
+[INFO] Version in the pom file 9.0.2-SNAPSHOT
+[INFO] Version in the text file 9.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] Current project parent ArtifactId : artifactNode: JarProjects-parent || Current project parent Version before update: versionNode: 9.0.0
+[INFO] Parent Version in the pom file 9.0.0
+[INFO] Parent Version in the text file 9.0.1
+[INFO] Current project parent ArtifactId: JarProjects-parent|| Current project parent Version after update: 9.0.1
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] dependency: 2
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject12
+[INFO] This dependency JarProject12 do not have the version tag
+[INFO] dependency: 3
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject13
+[INFO] This dependency JarProject13 do not have the version tag
+[INFO] dependency: 4
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject14
+[INFO] This dependency JarProject14 do not have the version tag
+[INFO] dependency: 5
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject15
+[INFO] This dependency JarProject15 do not have the version tag
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject11 4.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject11 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject11
+[INFO] Reading text file...
+[INFO] Current project name: JarProject11
+[INFO] 
+[INFO] Current project ArtifactId : JarProject11 || Current project Version before update: 4.0.2-SNAPSHOT
+[INFO] Version in the pom file 4.0.2-SNAPSHOT
+[INFO] Version in the text file 4.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject12 5.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject12 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject12
+[INFO] Reading text file...
+[INFO] Current project name: JarProject12
+[INFO] 
+[INFO] Current project ArtifactId : JarProject12 || Current project Version before update: 5.0.2-SNAPSHOT
+[INFO] Version in the pom file 5.0.2-SNAPSHOT
+[INFO] Version in the text file 5.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject13 7.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject13 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject13
+[INFO] Reading text file...
+[INFO] Current project name: JarProject13
+[INFO] 
+[INFO] Current project ArtifactId : JarProject13 || Current project Version before update: 7.0.2-SNAPSHOT
+[INFO] Version in the pom file 7.0.2-SNAPSHOT
+[INFO] Version in the text file 7.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject14 8.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject14 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject14
+[INFO] Reading text file...
+[INFO] Current project name: JarProject14
+[INFO] 
+[INFO] Current project ArtifactId : JarProject14 || Current project Version before update: 8.0.2-SNAPSHOT
+[INFO] Version in the pom file 8.0.2-SNAPSHOT
+[INFO] Version in the text file 8.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject15 3.0.2-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject15 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject15
+[INFO] Reading text file...
+[INFO] Current project name: JarProject15
+[INFO] 
+[INFO] Current project ArtifactId : JarProject15 || Current project Version before update: 3.0.2-SNAPSHOT
+[INFO] Version in the pom file 3.0.2-SNAPSHOT
+[INFO] Version in the text file 3.0.2-SNAPSHOT
+[INFO] Looks like the version in text file artifacts.txt and the project version are same.
+[INFO] 
+[INFO] Current project parent ArtifactId : artifactNode: JarProjects-parent || Current project parent Version before update: versionNode: 9.0.0
+[INFO] Parent Version in the pom file 9.0.0
+[INFO] Parent Version in the text file 9.0.1
+[INFO] Current project parent ArtifactId: JarProjects-parent|| Current project parent Version after update: 9.0.1
+[INFO] 
+[INFO] 
+[INFO] dependency: 1
+[INFO] Dependency groupId : junit
+[INFO] Dependency artifactId : junit
+[INFO] Dependency version : 3.8.1
+[INFO] Dependency scope : test
+[INFO] dependency: 2
+[INFO] Dependency groupId : com.maven.plugin.JarProject
+[INFO] Dependency artifactId : JarProject11
+[INFO] This dependency JarProject11 do not have the version tag
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProjects-Aggregate 9.0.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProjects-Aggregate ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Reading text file...
+[INFO] Current project name: JarProjects-Aggregate
+[INFO] 
+[INFO] Current project ArtifactId : JarProjects-Aggregate || Current project Version before update: 9.0.0
+[INFO] Looks like there are no details related to this artifact JarProjects-Aggregate in the text file artifacts.txt
+[INFO] 
+[INFO] 
+[INFO] No dependencies configured under <dependencies> section
+[INFO] 
+[INFO] No dependencies configured under <dependencyManagement> section
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] JarProject1 ........................................ SUCCESS [  1.979 s]
+[INFO] JarProject2 ........................................ SUCCESS [  0.034 s]
+[INFO] JarProject3 ........................................ SUCCESS [  0.028 s]
+[INFO] JarProjects-parent ................................. SUCCESS [  0.044 s]
+[INFO] JarProject4 ........................................ SUCCESS [  0.026 s]
+[INFO] JarProject5 ........................................ SUCCESS [  0.032 s]
+[INFO] JarProject6 ........................................ SUCCESS [  0.045 s]
+[INFO] JarProject7 ........................................ SUCCESS [  0.111 s]
+[INFO] JarProject8 ........................................ SUCCESS [  0.037 s]
+[INFO] JarProject9 ........................................ SUCCESS [  0.021 s]
+[INFO] JarProject10 ....................................... SUCCESS [  0.024 s]
+[INFO] JarProject11 ....................................... SUCCESS [  0.023 s]
+[INFO] JarProject12 ....................................... SUCCESS [  0.019 s]
+[INFO] JarProject13 ....................................... SUCCESS [  0.024 s]
+[INFO] JarProject14 ....................................... SUCCESS [  0.039 s]
+[INFO] JarProject15 ....................................... SUCCESS [  0.023 s]
+[INFO] JarProjects-Aggregate .............................. SUCCESS [  0.044 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 3.090 s
+[INFO] Finished at: 2016-10-27T00:28:05+05:30
+[INFO] Final Memory: 11M/93M
+[INFO] ------------------------------------------------------------------------
