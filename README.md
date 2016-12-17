@@ -3,6 +3,9 @@ import java.util.Scanner;
  
 class AddNumbers
 {
+   public int substarction(int a, int b){
+   return a-b;
+   }
    public static void main(String args[])
    {
       int x, y, z;
