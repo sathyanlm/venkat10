@@ -1,0 +1,346 @@
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] JarProjects-parent
+[INFO] JarProject1
+[INFO] JarProject2
+[INFO] JarProject3
+[INFO] JarProject4
+[INFO] JarProject5
+[INFO] JarProject6
+[INFO] JarProject7
+[INFO] JarProject8
+[INFO] JarProject9
+[INFO] JarProject10
+[INFO] JarProject11
+[INFO] JarProject12
+[INFO] JarProject13
+[INFO] JarProject14
+[INFO] JarProject15
+[INFO] JarProjects-Aggregate
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProjects-parent 9.0.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProjects-parent ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProjects-parent
+[INFO] Reading text file...
+[INFO] Current project name: JarProjects-parent
+[INFO] Current project ArtifactId : JarProjects-parent artifactNode: JarProjects-parent || Current project Version before update: 9.0.0 versionNode: 9.0.0
+[INFO] Version in the pom file 9.0.0
+[INFO] Version in the text file 9.0.1
+[INFO] Current project ArtifactId: JarProjects-parent|| Current project Version after update: 9.0.1
+[INFO] 
+[INFO] Total Number of dependencies in this project: 4
+[INFO] dependencyNode name: dependency
+[INFO] dependencyNode name: dependency
+[INFO] dependencyNode name: dependency
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject1 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject1 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject1
+[INFO] Reading text file...
+[INFO] Current project name: JarProject1
+[INFO] Current project ArtifactId : JarProject1 artifactNode: JarProject1 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 3.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject1|| Current project Version after update: 3.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject2 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject2 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject2
+[INFO] Reading text file...
+[INFO] Current project name: JarProject2
+[INFO] Current project ArtifactId : JarProject2 artifactNode: JarProject2 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 4.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject2|| Current project Version after update: 4.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject3 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject3 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject3
+[INFO] Reading text file...
+[INFO] Current project name: JarProject3
+[INFO] Current project ArtifactId : JarProject3 artifactNode: JarProject3 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 5.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject3|| Current project Version after update: 5.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject4 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject4 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject4
+[INFO] Reading text file...
+[INFO] Current project name: JarProject4
+[INFO] Current project ArtifactId : JarProject4 artifactNode: JarProject4 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 6.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject4|| Current project Version after update: 6.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject5 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject5 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject5
+[INFO] Reading text file...
+[INFO] Current project name: JarProject5
+[INFO] Current project ArtifactId : JarProject5 artifactNode: JarProject5 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 7.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject5|| Current project Version after update: 7.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject6 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject6 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject6
+[INFO] Reading text file...
+[INFO] Current project name: JarProject6
+[INFO] Current project ArtifactId : JarProject6 artifactNode: JarProject6 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 8.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject6|| Current project Version after update: 8.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject7 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject7 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject7
+[INFO] Reading text file...
+[INFO] Current project name: JarProject7
+[INFO] Current project ArtifactId : JarProject7 artifactNode: JarProject7 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 9.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject7|| Current project Version after update: 9.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject8 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject8 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject8
+[INFO] Reading text file...
+[INFO] Current project name: JarProject8
+[INFO] Current project ArtifactId : JarProject8 artifactNode: JarProject8 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 6.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject8|| Current project Version after update: 6.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject9 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject9 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject9
+[INFO] Reading text file...
+[INFO] Current project name: JarProject9
+[INFO] Current project ArtifactId : JarProject9 artifactNode: JarProject9 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 8.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject9|| Current project Version after update: 8.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject10 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject10 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject10
+[INFO] Reading text file...
+[INFO] Current project name: JarProject10
+[INFO] Current project parent ArtifactId : artifactNode: JarProjects-parent || Current project parent Version before update: versionNode: 9.0.0
+[INFO] Parent Version in the pom file 9.0.0
+[INFO] Parent Version in the text file 9.0.1
+[INFO] Current project parent ArtifactId: JarProjects-parent|| Current project parent Version after update: 9.0.1
+[INFO] 
+[INFO] Current project ArtifactId : JarProject10 artifactNode: JarProject10 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 9.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject10|| Current project Version after update: 9.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject11 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject11 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject11
+[INFO] Reading text file...
+[INFO] Current project name: JarProject11
+[INFO] Current project ArtifactId : JarProject11 artifactNode: JarProject11 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 4.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject11|| Current project Version after update: 4.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject12 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject12 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject12
+[INFO] Reading text file...
+[INFO] Current project name: JarProject12
+[INFO] Current project ArtifactId : JarProject12 artifactNode: JarProject12 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 5.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject12|| Current project Version after update: 5.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject13 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject13 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject13
+[INFO] Reading text file...
+[INFO] Current project name: JarProject13
+[INFO] Current project ArtifactId : JarProject13 artifactNode: JarProject13 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 7.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject13|| Current project Version after update: 7.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject14 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject14 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject14
+[INFO] Reading text file...
+[INFO] Current project name: JarProject14
+[INFO] Current project ArtifactId : JarProject14 artifactNode: JarProject14 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 8.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject14|| Current project Version after update: 8.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProject15 2.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProject15 ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProject15
+[INFO] Reading text file...
+[INFO] Current project name: JarProject15
+[INFO] Current project parent ArtifactId : artifactNode: JarProjects-parent || Current project parent Version before update: versionNode: 9.0.0
+[INFO] Parent Version in the pom file 9.0.0
+[INFO] Parent Version in the text file 9.0.1
+[INFO] Current project parent ArtifactId: JarProjects-parent|| Current project parent Version after update: 9.0.1
+[INFO] 
+[INFO] Current project ArtifactId : JarProject15 artifactNode: JarProject15 || Current project Version before update: 2.0.0-SNAPSHOT versionNode: 2.0.0-SNAPSHOT
+[INFO] Version in the pom file 2.0.0-SNAPSHOT
+[INFO] Version in the text file 3.0.0-SNAPSHOT
+[INFO] Current project ArtifactId: JarProject15|| Current project Version after update: 3.0.0-SNAPSHOT
+[INFO] 
+[INFO] Total Number of dependencies in this project: 1
+[INFO] dependencyNode name: dependency
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JarProjects-Aggregate 9.0.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- pomupdate-maven-plugin:2.0.0-SNAPSHOT:pomupdate (default-cli) @ JarProjects-Aggregate ---
+[INFO] Root Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Current Path...D:\Hari\mavenprojects\jarprojects\JarProjects-Aggregate
+[INFO] Reading text file...
+[INFO] Current project name: JarProjects-Aggregate
+[INFO] Current project ArtifactId : JarProjects-Aggregate artifactNode: JarProjects-Aggregate || Current project Version before update: 9.0.0 versionNode: 9.0.0
+[INFO] Looks like there are no details related to this artifact JarProjects-Aggregate in the text file artifacts.txt
+[INFO] No dependencies configured under <dependencies> section
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] JarProjects-parent ................................. SUCCESS [  2.160 s]
+[INFO] JarProject1 ........................................ SUCCESS [  0.123 s]
+[INFO] JarProject2 ........................................ SUCCESS [  0.125 s]
+[INFO] JarProject3 ........................................ SUCCESS [  0.115 s]
+[INFO] JarProject4 ........................................ SUCCESS [  0.127 s]
+[INFO] JarProject5 ........................................ SUCCESS [  0.110 s]
+[INFO] JarProject6 ........................................ SUCCESS [  0.112 s]
+[INFO] JarProject7 ........................................ SUCCESS [  0.112 s]
+[INFO] JarProject8 ........................................ SUCCESS [  0.133 s]
+[INFO] JarProject9 ........................................ SUCCESS [  0.109 s]
+[INFO] JarProject10 ....................................... SUCCESS [  0.019 s]
+[INFO] JarProject11 ....................................... SUCCESS [  0.116 s]
+[INFO] JarProject12 ....................................... SUCCESS [  0.128 s]
+[INFO] JarProject13 ....................................... SUCCESS [  0.134 s]
+[INFO] JarProject14 ....................................... SUCCESS [  0.113 s]
+[INFO] JarProject15 ....................................... SUCCESS [  0.021 s]
+[INFO] JarProjects-Aggregate .............................. SUCCESS [  0.117 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 4.507 s
+[INFO] Finished at: 2016-10-26T22:01:43+05:30
+[INFO] Final Memory: 8M/93M
+[INFO] ------------------------------------------------------------------------

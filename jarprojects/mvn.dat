@@ -1,0 +1,30 @@
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject1 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject2 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject3 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject4 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject5 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject6 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject7 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject8 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject9 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject10 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject11 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject12 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject13 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject14 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject15 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
