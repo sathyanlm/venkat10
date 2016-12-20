@@ -10,6 +10,10 @@ class AddNumbers
    public int mul(int a, int b){
 	return a*b;
    }
+   //div Method
+   public int div(int a, int b){
+	return a/b;
+   }
    //Add Method
    public int add(int a, int b){
    {return a+b;}
