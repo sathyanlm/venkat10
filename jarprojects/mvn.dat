@@ -30,3 +30,5 @@ mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarPro
 mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject15 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 
 mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject16 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.maven.plugin.JarProject -DartifactId=JarProject17 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false

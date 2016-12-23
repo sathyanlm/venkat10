@@ -17,8 +17,6 @@ class AddNumbers
    //Add Method
    public int add(int a, int b){
    {return a+b;}
-   public float div(int a, int b){
-	 return a/b;
-   }
 }
-//Three Methods
+//four Methods
+//Totally four methods now
