@@ -32,5 +32,11 @@ class AddNumbers
    public float div(int a, int b){
 	 return a/b;
    }
+	   public float div(int a, int b){
+	 return a/b;
+   }
+	   public float div(int a, int b){
+	 return a/b;
+   }
 }
 //Three Methods
