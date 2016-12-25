@@ -6,11 +6,11 @@ class AddNumbers
    public int sub(int a, int b){
 	return a-b;
    }
-   //Mul Method
+   //Mul Method with 2 param
    public int mul(int a, int b){
 	return a*b;
    }
-	//Mul Method
+	//Mul Method with 3 param
    public int mul(int a, int b,int c){
 	return a*b*c;
    }c
@@ -22,9 +22,10 @@ class AddNumbers
    public int mod(int a, int b){
 	return a%b;
    }
-   //Add Method
+   //Add Method with 2 param
    public int add(int a, int b){
    {return a+b;}
+   //Add Method with 3 param
    public int add(int a, int b,int c){
    {return a+b+c;}
 	   
