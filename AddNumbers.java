@@ -28,7 +28,9 @@ class AddNumbers
    //Add Method with 3 param
    public int add(int a, int b,int c){
    {return a+b+c;}
-	   
+	 //Add Method with 3 param
+   public int add(int a, int b,int c,int d){
+   {return a+b+c+d;}   
    public float div(int a, int b){
 	 return a/b;
    }
