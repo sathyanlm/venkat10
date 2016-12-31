@@ -1,4 +1,6 @@
-# hello-world - Us_Dev
+# hello-world
+https://github.com/venkatasykam/hello-world
+https://github.com/venkatasykam/JarProjects
 import java.util.Scanner;
  
 class AddNumbers
@@ -19,4 +21,3 @@ class AddNumbers
    }
 }
 //AddNumbers Class
-//AddNumbers Class-2
